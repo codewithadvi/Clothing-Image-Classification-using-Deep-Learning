@@ -29,5 +29,3 @@ This project demonstrates the power of deep learning in image classification by 
 2. **Model Architecture**: Built a simple yet efficient neural network model using **Dense** and **Dropout** layers.
 3. **Training**: Trained the model on the dataset for 5 epochs and evaluated its performance.
 4. **Evaluation**: Plotted the predictions, compared them with true labels, and analyzed the accuracy.
-
-### **How to Run the Project:**
