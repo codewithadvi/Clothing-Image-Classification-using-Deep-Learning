@@ -1,6 +1,3 @@
-# Deep Learning Projects
-
-Welcome to my deep learning projects repository! Here, I showcase some exciting deep learning projects that leverage neural networks for image classification. My first project focuses on classifying clothing images using the **Fashion MNIST** dataset, a challenging dataset for machine learning beginners.
 
 ## Project: **Clothing Image Classification using Deep Learning**
 
